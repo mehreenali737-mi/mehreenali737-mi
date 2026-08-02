@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Mehreen Ali</h1>
-<h3 align="center">AI & Data Science Developer | BS CS (Data Science) Student</h3>
+<h1 align="center">Hi there, I'm Mehreen Ali 👋💫</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F5A96&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Developer+%F0%9F%A4%96;BS+CS+Student+%40+COMSATS+University;Building+cute+AI-powered+apps+%E2%9C%A8;Always+learning%2C+always+debugging+%F0%9F%90%9E" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+</p>
 
 <p align="center">
   🎓 BS Computer Science (Data Science) @ COMSATS University Islamabad, Wah Campus — Graduating Jan 2027<br>
@@ -9,15 +16,17 @@
   📫 Reach me: mehreenali737@gmail.com
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehreenali737-mi&label=Profile%20Views&color=b08a3e&style=flat" alt="profile views" />
+</p>
+
 ---
 
-### 🛠️ Skills
+### 🛠️ My Toolbox
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Frameworks & Tools:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-**AI & Logic:** ![Prolog](https://img.shields.io/badge/-Prolog-blue?style=flat) Machine Learning · Pattern Recognition · Sentiment Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,flutter,firebase,nextjs,ts,tailwind,git" />
+</p>
 
 ---
 
@@ -32,15 +41,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehreenali737-mi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreenali737-mi&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mehreenali737-mi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreenali737-mi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehreenali737-mi&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
 </p>
 
 ---
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehreen-ali-34b71836a)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mehreenali737@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/mehreen-ali-34b71836a"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mehreenali737@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-<p align="center"><i>Open to AI, Machine Learning & Software Development roles — internships or collaborations 🚀</i></p>
+<p align="center"><i>✨ Open to AI, Machine Learning & Software Development roles — internships or collaborations 🚀 ✨</i></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUOxfjsW8VbFsSw3PS/giphy.gif" width="180"/>
+</p>
