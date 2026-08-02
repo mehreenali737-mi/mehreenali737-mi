@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" width="150"/>
 </p>
 
 <p align="center">
@@ -25,16 +25,20 @@
 ### 🛠️ My Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,flutter,firebase,nextjs,ts,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,flutter,firebase,nextjs,ts,tailwind,git,cs,prolog" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-- 🚬 **[Quit-Companion](#)** — AI-powered mobile app for nicotine recovery with habit tracking, analytics & relapse prediction (Flutter, Firebase, Python, FastAPI)
+- 🚬 **[Quit-Companion](#)** — Final Year Project · AI-powered mobile app for nicotine recovery with habit tracking, progress analytics & relapse prediction, Firebase Auth & Cloud Firestore (Flutter, Firebase, Python, FastAPI)
 - 🚗 **[Car Showcase](#)** — Car listing web app with search, filters & pagination (Next.js, TypeScript, Tailwind CSS)
-- 💻 **[Laptop Recommendation System](#)** — Rule-based AI expert system using logical inference (Prolog)
+- 💻 **[Laptop Recommendation System](#)** — Rule-based AI expert system suggesting laptops via logical rules & inference (Prolog, Visual Studio)
+- 🏨 **[Hotel Management System](#)** — Online hotel booking platform with reservation, check-in/out, billing & reporting tools
+- 🏫 **[School Management System](#)** — Desktop app managing student/teacher records, class schedules & result cards (Java, Swing)
+- 💄 **[Makeup Store Management System](#)** — Desktop app for inventory, sales & customer management with full database connectivity (VB.NET, SQL Server)
+- 🌐 **[Company Network Simulation](#)** — Simulated a company network with routers, switches, servers & data flow between departments (Cisco Packet Tracer)
 
 ---
 
