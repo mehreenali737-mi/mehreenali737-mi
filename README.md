@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mehreen Ali 👋💫</h1>
+<h1 align="center">Hi there, I'm MEHREEN ALI 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F5A96&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Developer+%F0%9F%A4%96;BS+CS+Student+%40+COMSATS+University;Building+cute+AI-powered+apps+%E2%9C%A8;Always+learning%2C+always+debugging+%F0%9F%90%9E" alt="Typing SVG" />
