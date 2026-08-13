@@ -5,7 +5,8 @@
 **AI & Data Science Developer**
 
 BS Computer Science (Data Science) @ COMSATS University Islamabad, Wah Campus &nbsp;·&nbsp; Graduating Jan 2027
-AI Intern @ Pakistan Ordnance Factories, IT Department
+ 
+               AI Intern @ Pakistan Ordnance Factories, IT Department
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A63?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehreen-ali-34b71836a)
 [![Email](https://img.shields.io/badge/Email-B08A3E?style=flat-square&logo=gmail&logoColor=white)](mailto:mehreenali737@gmail.com)
