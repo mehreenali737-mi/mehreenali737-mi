@@ -57,15 +57,7 @@ Open to Data Science, AI/ML, and Software Development roles — internships and 
 
 ---
 
-### GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mehreenali737-mi&theme=flat&no-frame=true&column=4&title.color=1F3A63&icon.color=B08A3E&text.color=333333" />
-
-</div>
-
----
 
 <div align="center">
 <sub>mehreenali737@gmail.com</sub>
