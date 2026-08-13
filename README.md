@@ -2,9 +2,9 @@
 
 # Mehreen Ali
 
-**AI & Data Science Developer**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1F3A63&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Developer;BS+CS+Student+%40+COMSATS+University;Building+AI-powered+apps" alt="Typing SVG" />
 
-BS Computer Science (Data Science) @ COMSATS University Islamabad, Wah Campus &nbsp;·&nbsp; Graduating Jan
+BS Computer Science (Data Science) @ COMSATS University Islamabad, Wah Campus &nbsp;·&nbsp; Graduating Jan 2027
 AI Intern @ Pakistan Ordnance Factories, IT Department
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A63?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehreen-ali-34b71836a)
@@ -57,14 +57,15 @@ Open to Data Science, AI/ML, and Software Development roles — internships and 
 
 ---
 
-### GitHub Stats
+### GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mehreenali737-mi&show_icons=true&hide_border=true&title_color=1F3A63&text_color=333333&icon_color=B08A3E&bg_color=ffffff" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehreenali737-mi&hide_border=true&background=ffffff&stroke=1F3A63&ring=B08A3E&fire=B08A3E&currStreakLabel=1F3A63" height="150"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mehreenali737-mi&theme=flat&no-frame=true&column=4&title.color=1F3A63&icon.color=B08A3E&text.color=333333" />
 
 </div>
+
+---
 
 <div align="center">
 <sub>mehreenali737@gmail.com</sub>
